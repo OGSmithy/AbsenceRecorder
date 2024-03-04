@@ -22,6 +22,7 @@
 		F7285DAD2B87F2EA00311C36 /* Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7285DAC2B87F2EA00311C36 /* Division.swift */; };
 		F7285DB02B87F91D00311C36 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7285DAF2B87F91D00311C36 /* Date.swift */; };
 		F7285DB22B87FD3800311C36 /* DivisionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7285DB12B87FD3800311C36 /* DivisionItem.swift */; };
+		F7C28B012B96700800D57106 /* FileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C28B002B96700800D57106 /* FileManager.swift */; };
 		F7C9C6C72B8E7E780004728A /* AbsenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C62B8E7E780004728A /* AbsenceView.swift */; };
 		F7C9C6C92B8E7FB80004728A /* RootTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6C82B8E7FB80004728A /* RootTabView.swift */; };
 		F7C9C6CB2B8E80840004728A /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7C9C6CA2B8E80840004728A /* StatisticsView.swift */; };
@@ -64,6 +65,7 @@
 		F7285DAC2B87F2EA00311C36 /* Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Division.swift; sourceTree = "<group>"; };
 		F7285DAF2B87F91D00311C36 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		F7285DB12B87FD3800311C36 /* DivisionItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisionItem.swift; sourceTree = "<group>"; };
+		F7C28B002B96700800D57106 /* FileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManager.swift; sourceTree = "<group>"; };
 		F7C9C6C62B8E7E780004728A /* AbsenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbsenceView.swift; sourceTree = "<group>"; };
 		F7C9C6C82B8E7FB80004728A /* RootTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootTabView.swift; sourceTree = "<group>"; };
 		F7C9C6CA2B8E80840004728A /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 			isa = PBXGroup;
 			children = (
 				F7285DAF2B87F91D00311C36 /* Date.swift */,
+				F7C28B002B96700800D57106 /* FileManager.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				F7285D812B87EE0C00311C36 /* DivisionsView.swift in Sources */,
 				F7285DB02B87F91D00311C36 /* Date.swift in Sources */,
 				F7C9C6C92B8E7FB80004728A /* RootTabView.swift in Sources */,
+				F7C28B012B96700800D57106 /* FileManager.swift in Sources */,
 				F70E87C22B913498000768FC /* StudentAbsence.swift in Sources */,
 				F7285DAB2B87F26400311C36 /* Student.swift in Sources */,
 				F70E87C02B9130E0000768FC /* AbsenceItem.swift in Sources */,
